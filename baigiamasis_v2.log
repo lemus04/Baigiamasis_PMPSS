@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F46K22 -DL -O11111110 -fo16 -N"C:\Users\Jaroslav\Dropbox\BAIGIAMASIS DARBAS\pic 18F46k22 programa\BD Naujausias kodas\baigiamasis_v2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Jaroslav\Dropbox\BAIGIAMASIS DARBAS\pic 18F46k22 programa\BD Naujausias kodas\" -SP"C:\Users\Jaroslav\Dropbox\BAIGIAMASIS DARBAS\pic 18F46k22 programa\" "baigiamasis_v2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_ADC_A_D.mcl" "__Lib_UART_c67d67.mcl"	 
+hint: 0	1139	Available RAM: 3875 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 94 ms	 
+diagnostics: 0	122	Compilation Started	baigiamasis_v2.c
+warning: 281	1508	Implicit conversion of int to ptr	baigiamasis_v2.c
+warning: 294	1506	Implicit conversion of pointer to int	baigiamasis_v2.c
+diagnostics: 366	123	Compiled Successfully	baigiamasis_v2.c
+diagnostics: 0	127	All files Compiled in 140 ms	 
+hint: 0	1144	Used RAM (bytes): 605 (16%)  Free RAM (bytes): 3270 (84%)	Used RAM (bytes): 605 (16%)  Free RAM (bytes): 3270 (84%)
+hint: 0	1144	Used ROM (bytes): 3095 (5%)  Free ROM (bytes): 62441 (95%)	Used ROM (bytes): 3095 (5%)  Free ROM (bytes): 62441 (95%)
+diagnostics: 0	125	Project Linked Successfully	baigiamasis_v2.mcppi
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'baigiamasis_v2.mcppi' completed: 360 ms	 
+diagnostics: 0	103	Finished successfully: 22 Feb 2018, 21:58:38	baigiamasis_v2.mcppi

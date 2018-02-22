@@ -122,7 +122,7 @@ int komandos_ilgis;
 //  ****************************************************END KINTAMIEJI********************************************************************************
 
 void WiFi_inicializacija(){
-delay_ms(500);
+delay_ms(50);
 
 UART1_Init(UART_band_rate);
 UART2_Init(UART_band_rate);
